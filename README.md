@@ -13,7 +13,9 @@
 
 - 为我提供自动化代码或优化后的代码
   
-- 资助我扩充云服务器硬盘容量
+- 或者资助我扩充云服务器硬盘容量
+
+- Or just give me a star, then you can get my newest data.
 
 ### Anyway, thanks for your interest.
 
